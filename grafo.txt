@@ -1,0 +1,297 @@
+6
+80
+0 "Cruzamento Rua Maria Antônia x Rua Itambé" 0
+1 "Cruzamento Rua da Consolação x Rua Piauí" 0
+2 "Cruzamento Rua Sergipe x Rua da Consolação" 0
+3 "Cruzamento Rua Augusta x Rua Dona Antônia de Queirós" 0
+4 "Cruzamento Avenida Ipiranga x Avenida São João" 0
+5 "Cruzamento Rua Benjamin Constant x Rua Senador Feijó" 0
+6 "Cruzamento Avenida Rangel Pestana x Avenida Celso Garcia" 0
+7 "Cruzamento Viaduto Alcântara Machado x Rua de Figueira" 0
+8 "Cruzamento Avenida Celso Garcia x Rua José de Alencar" 0
+9 "Cruzamento Avenida Radial Leste x Rua Tuiuti" 0
+10 "Cruzamento Avenida Radial Leste x Rua Alvinópolis" 0
+11 "Cruzamento Avenida Salim Farah Maluf x Avenida Radial Leste" 0
+12 "Cruzamento Avenida Aricanduva x Avenida Radial Leste" 0
+13 "Cruzamento Avenida Itaquera x Avenida Líder" 0
+14 "Cruzamento Avenida Projetada x Acesso Metrô Itaquera" 0
+15 "Cruzamento Avenida Sapopemba x Avenida Vila Ema" 0
+16 "Cruzamento Avenida Mateo Bei x Rua Maria Cursi" 0
+17 "Cruzamento Avenida Ragueb Chohfi x Avenida Jacu Pêssego" 0
+18 "Cruzamento Estrada do Iguatemi x Avenida dos Metalúrgicos" 0
+19 "Cruzamento Rua Bresser x Rua do Hipódromo" 0
+20 "Cruzamento Avenida Radial Leste x Rua Padre Adelino" 0
+21 "Cruzamento Avenida Radial Leste x Rua Antônio de Barros" 0
+22 "Cruzamento Avenida Radial Leste x Rua Doutor Luís Aires" 0
+23 "Cruzamento Avenida Radial Leste x Avenida Águia de Haia" 0
+24 "Cruzamento Avenida Radial Leste x Rua Astorga" 0
+25 "Cruzamento Avenida Radial Leste x Avenida Melchert" 0
+26 "Cruzamento Viaduto do Glicério x Avenida do Estado" 0
+27 "Cruzamento Rua Mauá x Avenida Tiradentes" 0
+28 "Cruzamento Avenida Francisco Matarazzo x Rua Tagipuru" 0
+29 "Cruzamento Avenida Cruzeiro do Sul x Rua Santa Eulália" 0
+30 "Cruzamento Avenida do Estado x Rua Mercúrio" 0
+31 "Cruzamento Rua Cantareira x Rua da Cantareira" 0
+32 "Cruzamento Rua 25 de Março x Ladeira Porto Geral" 0
+33 "Cruzamento Avenida Ipiranga x Avenida São Luís" 0
+34 "Cruzamento Avenida São João x Largo do Paissandu" 0
+35 "Cruzamento Rua Amaral Gurgel x Rua das Palmeiras" 0
+36 "Cruzamento Avenida Angélica x Rua Alagoas" 0
+37 "Cruzamento Rua Cardoso de Almeida x Rua Monte Alegre" 0
+38 "Cruzamento Praça Charles Miller x Avenida Pacaembu" 0
+39 "Cruzamento Avenida Francisco Matarazzo x Rua Turiaçu" 0
+40 "Cruzamento Avenida Pompeia x Rua Clélia" 0
+41 "Cruzamento Rua Palestra Itália x Rua Turiassu" 0
+42 "Cruzamento Rua da Mooca x Rua Taquari" 0
+43 "Cruzamento Rua Silva Teles x Rua Bresser" 0
+44 "Cruzamento Rua Azurita x Avenida do Estado" 0
+45 "Cruzamento Avenida Santos Dumont x Avenida Tiradentes" 0
+46 "Cruzamento Avenida Marginal Tietê x Ponte da Casa Verde" 0
+47 "Cruzamento Avenida Marginal Tietê x Ponte das Bandeiras" 0
+48 "Cruzamento Avenida Anhaia Mello x Avenida Salim Farah Maluf" 0
+49 "Cruzamento Avenida Vila Ema x Rua Solidônio Leite" 0
+50 "Cruzamento Avenida Sapopemba x Rua Luís Ferreira da Silva" 0
+51 "Cruzamento Avenida Aricanduva x Avenida Itaquera" 0
+52 "Cruzamento Avenida Jacu Pêssego x Avenida Ragueb Chohfi" 0
+53 "Cruzamento Avenida Nordestina x Rua São Miguel" 0
+54 "Cruzamento Estrada Itaquera-Guaianases x Rua Salvador Gianetti" 0
+55 "Cruzamento Avenida Jacu Pêssego x Avenida Nova Trabalhadores" 0
+56 "Cruzamento Avenida Sapopemba x Avenida Mateo Bei" 0
+57 "Cruzamento Avenida Sapopemba x Rua Augustin Luberti" 0
+58 "Cruzamento Avenida Sapopemba x Avenida Arquiteto Vilanova Artigas" 0
+59 "Cruzamento Avenida Paes de Barros x Avenida Anhaia Mello" 0
+60 "Cruzamento Rua Comendador Roberto Ugolini x Rua Juventus" 0
+61 "Cruzamento Rua da Mooca x Avenida do Estado" 0
+62 "Cruzamento Rua do Oratório x Rua Juventus" 0
+63 "Cruzamento Avenida Celso Garcia x Rua Doutor Ricardo Gonçalves" 0
+64 "Cruzamento Avenida Radial Leste x Viaduto do Glicério" 0
+65 "Cruzamento Avenida Radial Leste x Viaduto Pires do Rio" 0
+66 "Cruzamento Avenida Radial Leste x Viaduto Vila Matilde" 0
+67 "Cruzamento Avenida Aricanduva x Avenida Ragueb Chohfi" 0
+68 "Cruzamento Avenida Afonso de Sampaio e Sousa x Rua Osvaldo Pucci" 0
+69 "Cruzamento Estrada do Iguatemi x Rua Confederação dos Tamoios" 0
+70 "Cruzamento Avenida Doutor Eduardo Cotching x Rua Formosa" 0
+71 "Cruzamento Rua Conselheiro Carrão x Rua Cantagalo" 0
+72 "Cruzamento Avenida Penha de França x Rua Doutor João Ribeiro" 0
+73 "Cruzamento Avenida Marginal Tietê x Avenida Aricanduva" 0
+74 "Cruzamento Avenida São Miguel x Avenida Amador Bueno da Veiga" 0
+75 "Cruzamento Avenida Paranaguá x Rua São Francisco de Assis" 0
+76 "Cruzamento Avenida Marechal Tito x Rua Balsa Nova" 0
+77 "Cruzamento Avenida Paes de Barros x Rua da Mooca" 0
+78 "Cruzamento Avenida Regente Feijó x Rua Anália Franco" 0
+79 "Cruzamento Avenida Radial Leste x Viaduto Alberto Badra" 0
+210
+0 1 0.4
+1 0 0.4
+1 2 0.5
+2 1 0.5
+2 0 0.6
+0 2 0.6
+3 0 0.7
+0 3 0.7
+3 1 0.6
+1 3 0.6
+4 1 1.1
+1 4 1.1
+4 5 1.2
+5 4 1.2
+5 6 1.8
+6 5 1.8
+6 7 0.9
+7 6 0.9
+7 64 1.5
+64 7 1.5
+64 5 1.2
+5 64 1.2
+6 8 2.4
+8 6 2.4
+8 63 1.1
+63 8 1.1
+63 19 1.4
+19 63 1.4
+19 20 1.6
+20 19 1.6
+20 9 1.8
+9 20 1.8
+9 65 0.7
+65 9 0.7
+65 11 1.5
+11 65 1.5
+11 12 2.8
+12 11 2.8
+12 66 1.4
+66 12 1.4
+66 25 1.1
+25 66 1.1
+25 24 1.3
+24 25 1.3
+24 22 1.6
+22 24 1.6
+22 23 1.9
+23 22 1.9
+23 14 2.2
+14 23 2.2
+14 55 3.1
+55 14 3.1
+55 52 2.8
+52 55 2.8
+52 17 3.5
+17 52 3.5
+17 18 6.2
+18 17 6.2
+18 69 4.1
+69 18 4.1
+69 17 3.8
+17 69 3.8
+13 14 3.4
+14 13 3.4
+13 51 2.1
+51 13 2.1
+51 12 4.2
+12 51 4.2
+10 79 1.4
+79 10 1.4
+79 65 1.1
+65 79 1.1
+10 21 1.8
+21 10 1.8
+21 66 1.5
+66 21 1.5
+16 56 1.2
+56 16 1.2
+56 57 1.8
+57 56 1.8
+57 58 2.1
+58 57 2.1
+58 50 3.4
+50 58 3.4
+50 15 2.8
+15 50 2.8
+15 49 1.9
+49 15 1.9
+49 48 2.2
+48 49 2.2
+48 59 1.6
+59 48 1.6
+59 77 2.4
+77 59 2.4
+77 61 2.1
+61 77 2.1
+61 30 1.8
+30 61 1.8
+30 26 1.2
+26 30 1.2
+26 64 1.4
+64 26 1.4
+31 30 0.8
+30 31 0.8
+31 32 0.5
+32 31 0.5
+32 5 0.9
+5 32 0.9
+33 4 0.5
+4 33 0.5
+34 4 0.6
+4 34 0.6
+34 35 1.2
+35 34 1.2
+35 1 1.4
+1 35 1.4
+36 1 0.9
+1 36 0.9
+36 37 1.8
+37 36 1.8
+37 38 1.1
+38 37 1.1
+38 0 1.3
+0 38 1.3
+39 28 1.2
+28 39 1.2
+39 41 1.5
+41 39 1.5
+41 40 1.4
+40 41 1.4
+40 39 1.8
+39 40 1.8
+42 60 1.1
+60 42 1.1
+60 62 0.9
+62 60 0.9
+62 8 2.3
+8 62 2.3
+43 6 1.5
+6 43 1.5
+43 19 1.1
+19 43 1.1
+44 30 1.9
+30 44 1.9
+45 27 1.4
+27 45 1.4
+27 29 1.1
+29 27 1.1
+29 45 0.8
+45 29 0.8
+46 47 1.6
+47 46 1.6
+47 45 2.2
+45 47 2.2
+73 12 3.1
+12 73 3.1
+73 79 4.8
+79 73 4.8
+74 10 3.2
+10 74 3.2
+74 53 4.5
+53 74 4.5
+53 54 5.2
+54 53 5.2
+54 75 3.8
+75 54 3.8
+75 74 4.1
+74 75 4.1
+76 54 4.6
+54 76 4.6
+78 70 1.5
+70 78 1.5
+70 11 3.4
+11 70 3.4
+71 21 1.2
+21 71 1.2
+72 10 1.3
+10 72 1.3
+72 63 2.8
+63 72 2.8
+67 17 3.1
+17 67 3.1
+67 12 4.4
+12 67 4.4
+68 13 2.5
+13 68 2.5
+68 67 3.9
+67 68 3.9
+35 4 0.9
+4 35 0.9
+6 11 3.8
+11 6 3.8
+8 43 1.4
+43 8 1.4
+9 8 1.9
+8 9 1.9
+77 42 1.2
+42 77 1.2
+20 63 1.7
+63 20 1.7
+33 34 0.7
+34 33 0.7
+28 27 2.5
+27 28 2.5
+4 27 1.8
+27 4 1.8
+59 15 2.1
+15 59 2.1
+52 23 4.8
+23 52 4.8
+16 17 4.2
+17 16 4.2
+14 51 2.5
+51 14 2.5
