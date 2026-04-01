@@ -1,6 +1,44 @@
 # =============================================================================
-# Projeto: Rotas de Carona Universitária - Zona Leste ao Mackenzie
+# Aplicação: CaronaMack - Otimização de Rotas na Malha Viária de São Paulo
+# =============================================================================
 # Disciplina: Teoria dos Grafos - Turma 6G
+# Professor:  Prof. Dr. Ivan Carlos Alcântara de Oliveira
+# Instituição: Universidade Presbiteriana Mackenzie
+# Faculdade de Computação e Informática
+#
+# Integrantes do Grupo:
+#   - Daniela Pereira       RA: 10410906
+#   - Eduardo Takashi        RA: 10417877
+#   - Ricardo Lins Pires     RA: 10419394
+#
+# Síntese do Conteúdo:
+#   Modelagem da malha viária da região Centro-Zona Leste de São Paulo
+#   como um grafo orientado e ponderado (Tipo 6), com 80 vértices
+#   (cruzamentos) e 210 arestas (vias com distâncias em km). Implementa
+#   um menu completo para manipulação do grafo e análise de conexidade
+#   por meio do algoritmo FCONEX.
+#
+# Linguagem: Python 3
+#
+# Histórico de Alterações:
+#   2026-03-22 | Daniela Pereira   | Criação da estrutura base herdando da
+#                                    classe Grafo do professor (grafoLista.py).
+#                                    Implementação da leitura do grafo.txt,
+#                                    suporte a pesos e rótulos nos vértices.
+#   2026-03-22 | Eduardo Takashi   | Implementação das opções de gravação (b),
+#                                    inserção de vértice (c) e aresta (d),
+#                                    remoção de vértice (e) e aresta (f).
+#                                    Correção do bug de reindexação em (e).
+#   2026-03-22 | Ricardo Lins Pires| Implementação do algoritmo FCONEX para
+#                                    análise de conexidade (opção i), conforme
+#                                    pseudocódigo do Prof. Ivan Carlos.
+#                                    Implementação do grafo reduzido e
+#                                    classificação C0/C1/C2/C3.
+#   2026-03-31 | Daniela Pereira   | Adição da flag carregado para controle
+#                                    de fluxo do menu. Proteção de todas as
+#                                    opções contra uso antes da leitura (a).
+#                                    Tratamento de arquivo não encontrado.
+# =============================================================================
 
 
 import sys
